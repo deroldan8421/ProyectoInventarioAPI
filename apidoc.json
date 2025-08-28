@@ -1,0 +1,12 @@
+{
+  "name": "API de Inventario",
+  "version": "1.0.0",
+  "description": "Documentación de la API para el sistema de inventario de productos.",
+  "title": "API de Inventario",
+  "url" : "http://localhost:3000/api",
+  "order": [
+    "Auth",
+    "Products",
+    "Purchases"
+  ]
+}
